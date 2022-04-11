@@ -4,6 +4,9 @@ This repository requires and has been tested on Ruby 2.7.4 and is based on Rails
 
 RSpec and Shoulda-Matchers have been installed and set up.
 
+## Schema
+![image](https://user-images.githubusercontent.com/97060659/162796346-daea5f62-a4b6-49d3-9966-f8289cd41038.png)
+
 ## Setup
 
 1. fork this repo
